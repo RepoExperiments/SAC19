@@ -7,6 +7,7 @@ _logi_1000_NJ_s50.json and _logi_1000_YJ_s50.json for the first round to
 _logi_1000_NJ_s90.json and _logi_1000_YJ_s90.json for the fifth round. 
 
 The structure of a log file is explained as follow:
+
 -The number 1000 represents the number of time slices reported at the log.
 
 -NJ, i.e. not Juggling: reflect that the approach to update weights at runtime (ARRoW) was not applied. 
